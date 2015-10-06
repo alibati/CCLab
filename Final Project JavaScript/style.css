@@ -39,6 +39,12 @@ header {
 
 blockquote.instagram-media {
     margin: 0 auto;
+    display: inline-block;
+}
+
+iframe.instagram-media {
+    margin: 0 auto;
+    display: inline-block;
 }
 
 header nav {
